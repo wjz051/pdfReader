@@ -1,0 +1,2 @@
+1、环境为5.4+vs2013，5.7加vs2015也可以，但是有不通过QFileDialog会显示不了的bug，可能是axwidget的bug
+2、exe文件是打开pdf依赖的软件，打开office文件依赖微软的office
